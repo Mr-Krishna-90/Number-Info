@@ -1,0 +1,6 @@
+import subprocess
+
+packages = ['pyshorteners', 'beautifulsoup4', 'bs4', 'requests']
+
+for package in packages:
+    subprocess.run(['pip', 'install', package])
