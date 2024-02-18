@@ -16,9 +16,9 @@ anything
 - $ `pip install BeautifulSoup`
 - $ `pip install pyshorteners`
 
-<p><b>• Go Telegram And Search @number_imformation_bot Now Start Bot</b></p>
-<p><b>• And Go Telegram Search @UserX_RoBot Copy Your Chat Id</b></p>
-<p><b>• Now Go Termux And Type Last Cammond </b></p>
+<p><b>• Go Telegram And Search @number_imformation_bot Now Start Bot!!</b></p>
+<p><b>• And Return Search @UserX_RoBot Copy Your Chat Id!!</b></p>
+<p><b>• Now Go Termux And Type Last Cammond !!</b></p>
 
 - $ `python numXch.py`
 
