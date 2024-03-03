@@ -1,4 +1,4 @@
-# Number-infoga
+u# Number-infoga
 
 This Tool Was Made Only For Educational purposes don't use for
 illegal activities otherwise owner not responsable for 
@@ -10,7 +10,7 @@ anything
 - $ `pkg install python`
 - $ `pkg install git`
 - $ `git clone https://github.com/Mr-Krishna-90/Number-Info.git`
-- $ `cd Number-infoga`
+- $ `cd Number-info`
 - $ `pip install requests`
 - $ `pip install bs4`
 - $ `pip install BeautifulSoup`
